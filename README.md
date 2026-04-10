@@ -1,4 +1,4 @@
-# ml_health_insurance
+# Machine Learning Health Insurance
 
 > End-to-end machine learning projects — from data exploration to deployment with Streamlit.
 
@@ -47,7 +47,7 @@ cd ml_health_insurance
 
 # Install dependencies
 uv sync
-
+```
 ---
 
 ## Dataset
